@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.slatesy.app",
+    "package_name": "com.example.testingconcept",
     "sha256_cert_fingerprints":
     ["0F:AF:BB:CA:06:6D:9D:90:FE:73:71:CF:3C:7A:6F:4F:97:F6:C3:1D:8E:B2:BC:F2:9D:70:63:2F:6A:12:37:C1"]
   }
